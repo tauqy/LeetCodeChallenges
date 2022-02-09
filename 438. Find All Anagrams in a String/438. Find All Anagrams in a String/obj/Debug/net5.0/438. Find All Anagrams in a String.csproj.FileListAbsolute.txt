@@ -1,0 +1,16 @@
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\bin\Debug\net5.0\438. Find All Anagrams in a String.exe
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\bin\Debug\net5.0\438. Find All Anagrams in a String.deps.json
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\bin\Debug\net5.0\438. Find All Anagrams in a String.runtimeconfig.json
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\bin\Debug\net5.0\438. Find All Anagrams in a String.runtimeconfig.dev.json
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\bin\Debug\net5.0\438. Find All Anagrams in a String.dll
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\bin\Debug\net5.0\ref\438. Find All Anagrams in a String.dll
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\bin\Debug\net5.0\438. Find All Anagrams in a String.pdb
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\obj\Debug\net5.0\438. Find All Anagrams in a String.csproj.AssemblyReference.cache
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\obj\Debug\net5.0\438. Find All Anagrams in a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\obj\Debug\net5.0\438. Find All Anagrams in a String.AssemblyInfoInputs.cache
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\obj\Debug\net5.0\438. Find All Anagrams in a String.AssemblyInfo.cs
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\obj\Debug\net5.0\438. Find All Anagrams in a String.csproj.CoreCompileInputs.cache
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\obj\Debug\net5.0\438. Find All Anagrams in a String.dll
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\obj\Debug\net5.0\ref\438. Find All Anagrams in a String.dll
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\obj\Debug\net5.0\438. Find All Anagrams in a String.pdb
+D:\LeetCode\LeetCodeChallenges\438. Find All Anagrams in a String\438. Find All Anagrams in a String\obj\Debug\net5.0\438. Find All Anagrams in a String.genruntimeconfig.cache
