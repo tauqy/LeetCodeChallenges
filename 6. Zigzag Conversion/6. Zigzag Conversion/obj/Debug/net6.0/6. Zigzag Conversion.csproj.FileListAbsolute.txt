@@ -1,0 +1,15 @@
+C:\Code Challenge\LeetCodeChallenges\6. Zigzag Conversion\6. Zigzag Conversion\bin\Debug\net6.0\6. Zigzag Conversion.exe
+C:\Code Challenge\LeetCodeChallenges\6. Zigzag Conversion\6. Zigzag Conversion\bin\Debug\net6.0\6. Zigzag Conversion.deps.json
+C:\Code Challenge\LeetCodeChallenges\6. Zigzag Conversion\6. Zigzag Conversion\bin\Debug\net6.0\6. Zigzag Conversion.runtimeconfig.json
+C:\Code Challenge\LeetCodeChallenges\6. Zigzag Conversion\6. Zigzag Conversion\bin\Debug\net6.0\6. Zigzag Conversion.dll
+C:\Code Challenge\LeetCodeChallenges\6. Zigzag Conversion\6. Zigzag Conversion\bin\Debug\net6.0\6. Zigzag Conversion.pdb
+C:\Code Challenge\LeetCodeChallenges\6. Zigzag Conversion\6. Zigzag Conversion\obj\Debug\net6.0\6. Zigzag Conversion.csproj.AssemblyReference.cache
+C:\Code Challenge\LeetCodeChallenges\6. Zigzag Conversion\6. Zigzag Conversion\obj\Debug\net6.0\6. Zigzag Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Challenge\LeetCodeChallenges\6. Zigzag Conversion\6. Zigzag Conversion\obj\Debug\net6.0\6. Zigzag Conversion.AssemblyInfoInputs.cache
+C:\Code Challenge\LeetCodeChallenges\6. Zigzag Conversion\6. Zigzag Conversion\obj\Debug\net6.0\6. Zigzag Conversion.AssemblyInfo.cs
+C:\Code Challenge\LeetCodeChallenges\6. Zigzag Conversion\6. Zigzag Conversion\obj\Debug\net6.0\6. Zigzag Conversion.csproj.CoreCompileInputs.cache
+C:\Code Challenge\LeetCodeChallenges\6. Zigzag Conversion\6. Zigzag Conversion\obj\Debug\net6.0\6. Zigzag Conversion.dll
+C:\Code Challenge\LeetCodeChallenges\6. Zigzag Conversion\6. Zigzag Conversion\obj\Debug\net6.0\refint\6. Zigzag Conversion.dll
+C:\Code Challenge\LeetCodeChallenges\6. Zigzag Conversion\6. Zigzag Conversion\obj\Debug\net6.0\6. Zigzag Conversion.pdb
+C:\Code Challenge\LeetCodeChallenges\6. Zigzag Conversion\6. Zigzag Conversion\obj\Debug\net6.0\6. Zigzag Conversion.genruntimeconfig.cache
+C:\Code Challenge\LeetCodeChallenges\6. Zigzag Conversion\6. Zigzag Conversion\obj\Debug\net6.0\ref\6. Zigzag Conversion.dll
