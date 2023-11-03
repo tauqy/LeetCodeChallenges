@@ -1,0 +1,15 @@
+C:\Code Challenge\LeetCodeChallenges\1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations\bin\Debug\net6.0\1441. Build an Array With Stack Operations.exe
+C:\Code Challenge\LeetCodeChallenges\1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations\bin\Debug\net6.0\1441. Build an Array With Stack Operations.deps.json
+C:\Code Challenge\LeetCodeChallenges\1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations\bin\Debug\net6.0\1441. Build an Array With Stack Operations.runtimeconfig.json
+C:\Code Challenge\LeetCodeChallenges\1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations\bin\Debug\net6.0\1441. Build an Array With Stack Operations.dll
+C:\Code Challenge\LeetCodeChallenges\1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations\bin\Debug\net6.0\1441. Build an Array With Stack Operations.pdb
+C:\Code Challenge\LeetCodeChallenges\1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations\obj\Debug\net6.0\1441. Build an Array With Stack Operations.csproj.AssemblyReference.cache
+C:\Code Challenge\LeetCodeChallenges\1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations\obj\Debug\net6.0\1441. Build an Array With Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Challenge\LeetCodeChallenges\1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations\obj\Debug\net6.0\1441. Build an Array With Stack Operations.AssemblyInfoInputs.cache
+C:\Code Challenge\LeetCodeChallenges\1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations\obj\Debug\net6.0\1441. Build an Array With Stack Operations.AssemblyInfo.cs
+C:\Code Challenge\LeetCodeChallenges\1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations\obj\Debug\net6.0\1441. Build an Array With Stack Operations.csproj.CoreCompileInputs.cache
+C:\Code Challenge\LeetCodeChallenges\1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations\obj\Debug\net6.0\1441. Build an Array With Stack Operations.dll
+C:\Code Challenge\LeetCodeChallenges\1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations\obj\Debug\net6.0\refint\1441. Build an Array With Stack Operations.dll
+C:\Code Challenge\LeetCodeChallenges\1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations\obj\Debug\net6.0\1441. Build an Array With Stack Operations.pdb
+C:\Code Challenge\LeetCodeChallenges\1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations\obj\Debug\net6.0\1441. Build an Array With Stack Operations.genruntimeconfig.cache
+C:\Code Challenge\LeetCodeChallenges\1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations\obj\Debug\net6.0\ref\1441. Build an Array With Stack Operations.dll
