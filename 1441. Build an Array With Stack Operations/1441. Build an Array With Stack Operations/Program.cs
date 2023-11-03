@@ -30,8 +30,8 @@ The answers that read integer 3 from the stream are not accepted.
  */
 
 StackClass stack = new StackClass();
-var arr = new int[] { 1,2,3 };
-var res = stack.BuildArray(arr, 4);
+var arr = new int[] { 1,3 };
+var res = stack.BuildArray2(arr, 3);
 
 foreach (var item in res)
 {
